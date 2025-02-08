@@ -1,0 +1,8 @@
+This game requires you to load the ROM into your emulator first, 
+if it supports alternative ROM loading.
+
+Emulators that are known to work with this game are:
+
+Z80 (v4+ for TZX)
+x128
+
